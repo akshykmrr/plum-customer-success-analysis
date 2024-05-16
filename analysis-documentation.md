@@ -1,3 +1,5 @@
+**PLUM** - Customer Success Team Performance Analysis
+
 **1. Overview:**
 
 The documentation presented here is a short analysis that has been
@@ -13,68 +15,65 @@ better customer experience.
 Based on the analysis of the dataset, the overall efficiency of the
 Customer Success team can be summarized as follows:
 
-*[Solved Cases (%)]{.underline}:* The total cases marked as solved and
-closed is **[87.45%]{.underline}** versus the total cases raised to the
+*[Solved Cases (%)]*: The total cases marked as solved and
+closed is **[87.45%]** versus the total cases raised to the
 team, where 74.47% of the cases are marked 'Closed' and 12.98% cases as
 'Solved'.
 
-> ![](./media/media/image1.png){width="5.456994750656168in"
-> height="3.1770548993875765in"}
+> ![](./media/media/image1.png)
 
-*[Response Rate]{.underline}*: The rate at which customers have provided
+*[Response Rate]*: The rate at which customers have provided
 feedback on the work done by our customer success team is found to be
-**[\~14.91%]{.underline}**. This is calculated by the percentage of
+**[\~14.91%]**. This is calculated by the percentage of
 total surveys that were offered to our customers and the percentage of
 responses received. We have received **813** responses out of the total
 **5453** surveys that were offered.
 
-*[CSAT Score]{.underline}:* The CSAT Score (or Customer Satisfaction
+*[CSAT Score]:* The CSAT Score (or Customer Satisfaction
 score) measures the level of satisfaction that customers have with their
 overall experience. Considering a response rate of 14.91%, the CSAT
 score does not have a huge impact on the insights derived about the
 team's performance, although it would give a glimpse into the customer's
 experience with the responses and resolution.
 
-The CSAT score was found to be **[4.33]{.underline}** out of a maximum
+The CSAT score was found to be **[4.33]** out of a maximum
 rating of 5, which indicates that customers who did provide feedback on
 the survey have given an average rating of 4 to 5, indicating excellent
 customer experience.
 
-*[Average Resolution Time]{.underline}:* This is the average time taken
+*[Average Resolution Time]*: This is the average time taken
 by the team to resolve a case/query raised by our customers. It was
 found out from the data that the average time to resolve a query was
-**[3.42 hours]{.underline}**.
+**[3.42 hours]**.
 
-*[Average Response Time]{.underline}:* This is the average time taken by
+*[Average Response Time]*: This is the average time taken by
 the team to respond to a case once the case is created. The response
 time is obtained by subtracting the 'Created at' date/time from the
 'Initially assigned at' date/time. The response time by our team was
-found to be **[2.16 minutes]{.underline}** on an average.
+found to be **[2.16 minutes]** on an average.
 
-*[Percentage of Cases solved and closed by each Group]{.underline}:* Out
+*[Percentage of Cases solved and closed by each Group]*: Out
 of the 4 different groups under which the cases are received, it was
 found out that 'Support' had the comparatively highest percentage of
 solved cases out of the total cases handled with **49.02%** cases solved
 and closed, and 'Onboardings had the lease cases solved and closed out
 of the total cases handled.
 
-![](./media/media/image2.png){width="5.519273840769904in"
-height="3.154694881889764in"}
+![](./media/media/image2.png)
 
-*[Reopen Rate]{.underline}:* This is the percentage of cases that are
+*[Reopen Rate]*: This is the percentage of cases that are
 reopened after being marked as 'Solved'. A reopen rate of
 **[26.23%]{.underline}** has been calculated where the customers have
 reopened the cases after it being marked as 'Solved'.
 
 *[Customer Satisfaction derived from each Medium of
-inquiry]{.underline}:* An analysis was conducted to understand the
+inquiry]*: An analysis was conducted to understand the
 customer satisfaction that was recorded within each medium through which
 customers reached out for queries. It was found that the greatest number
 of cases raised by 'Closed Tickets' received the maximum customer
 satisfaction score.
 
-![](./media/media/image3.png){width="6.843346456692913in"
-height="3.54621719160105in"}
+![](./media/media/image3.png)
 
 From the above graph, it could be noted that **70%** of cases received
 via 'Closed Ticket' got a customer feedback of 5, and **\<90%** of the
@@ -83,7 +82,7 @@ customer satisfaction ratings were given to cases raised through 'Mail',
 indicating that customers prefer reaching out to us through Tickets over
 emails.
 
-*[Solved date vs. Number of cases]{.underline}:* From the below chart,
+*[Solved date vs. Number of cases]*: From the below chart,
 it could be noted that the number of cases solved varied between the
 different days of the week. There is a dip in solved cases during the
 **Weekends** (Saturdays and Sundays) while the highest number of cases
@@ -93,8 +92,7 @@ the trend line shows a slight decrease in the number of cases solved,
 the highest average number of cases were solved during the month of May
 from the mid (15^th^) to the end (31^st^) of the month.
 
-![](./media/media/image4.png){width="7.5in"
-height="1.7145833333333333in"}
+![](./media/media/image4.png)
 
 **2 (i). Team-wise Analysis (Charts)**
 
@@ -103,16 +101,14 @@ addressing a customer query is described. With the help of tables and
 charts, the teams can be ranked based on their rate of responsiveness
 and productivity.
 
-![](./media/media/image5.png){width="3.7952668416447946in"
-height="1.7883989501312336in"}![](./media/media/image6.png){width="3.897276902887139in"
-height="1.8483027121609799in"}
-
-fig 1 fig 2
-
-![](./media/media/image7.png){width="3.6954702537182853in"
-height="1.8899693788276466in"}
-
-fig 3
+![](./media/media/image5.png)
+          fig 1
+          
+![](./media/media/image6.png)
+           fig 2
+           
+![](./media/media/image7.png)
+          fig 3
 
 The above charts represent the average distribution of time taken by
 each team in handling cases. The **average resolution time** (fig 1)
@@ -130,18 +126,15 @@ hours]{.underline}** or **4 days** of wait time by our customers.
 
 The above data can be similarly represented in the form of tables as
 below:\
-![](./media/media/image8.png){width="3.549008092738408in"
-height="1.2791819772528434in"}
-![](./media/media/image9.png){width="3.184423665791776in"
-height="1.208238188976378in"}
+![](./media/media/image8.png)
+![](./media/media/image9.png)
 
-![](./media/media/image10.png){width="7.777723097112861in"
-height="1.7361111111111112in"}
+![](./media/media/image10.png)
 
 Concluding from the above, It can be denoted that the
-**[Support]{.underline}** team has been identified to be the quickest
+**[Support]** team has been identified to be the quickest
 team that has handled cases in terms of response, wait and resolution
-time and the **[Onboardings]{.underline}** team have been identified to
+time and the **[Onboardings]** team have been identified to
 have utilized comparatively more time in doing the same.
 
 From this, we could infer the overall working efficiency of the Customer
@@ -161,8 +154,7 @@ order to understand the customer experience, and in mapping out the time
 taken for each type of medium in providing a resolution to the
 customers' queries.
 
-![](./media/media/image11.png){width="5.195784120734908in"
-height="2.3541666666666665in"}
+![](./media/media/image11.png)
 
 From this chart, inference on the shortest time taken by each case
 system for resolved cases can be identified. Tickets raised via
@@ -173,8 +165,7 @@ most time to resolve with **629 minutes** or **10.5 hours** on average.
 
 **2 (iv). Ticket-wise Analysis (Tables)**
 
-![](./media/media/image12.png){width="4.663591426071741in"
-height="1.5510137795275591in"}
+![](./media/media/image12.png)
 
 As depicted in the table, the numbers with the average resolution time
 has been indicated, showing that cases raised via Internal Communication
@@ -193,8 +184,7 @@ This can be better observed on a column level from the below chart. The
 chart has been obtained from analysis of the data with the help of
 Python libraries.
 
-![](./media/media/image13.png){width="7.777723097112861in"
-height="5.208333333333333in"}
+![](./media/media/image13.png)
 
 **4. Conclusion:**
 
@@ -204,38 +194,21 @@ with understanding the customers' experience with the organization. A
 short glimpse of the above analysis can be found below that consists of
 the key facts and numbers:
 
-+----------------------------------+-----------------------------------+
-| **Key Factors**                  | **Output**                        |
-+----------------------------------+-----------------------------------+
-| **1. Efficiency:**               | The overall efficiency of the     |
-|                                  | team is commendable, with a high  |
-|   -------------- --------------  | percentage of cases solved, a     |
-|   Solved Cases   87.45%          | satisfactory customer response    |
-|                                  | rate and a high CSAT score. The   |
-|   Customer       14.91%          | ability to maintain a relatively  |
-|   Response Rate                  | low average resolution and        |
-|                                  | response time with a low reopen   |
-|   CSAT Score     4.33            | rate shows the dedication to      |
-|                                  | prompt and effective resolution   |
-|   Average        3.42 hours      | to customer queries.              |
-|   Resolution                     |                                   |
-|   time                           |                                   |
-|                                  |                                   |
-|   Average        2.16 minutes    |                                   |
-|   Response time                  |                                   |
-|                                  |                                   |
-|   Reopen Rate    26.23%          |                                   |
-|   -------------- --------------  |                                   |
-+----------------------------------+-----------------------------------+
-| **2. Quickest Group**            | Support                           |
-+----------------------------------+-----------------------------------+
-| **3. Slowest Group**             | Onboardings                       |
-+----------------------------------+-----------------------------------+
-| **4. Most aging ticket type**    | Closed Ticket                     |
-+----------------------------------+-----------------------------------+
+| **Key Factors**                  | **Output**       |
+|----------------------------------|------------------|
+|                  **1. Efficiency:**                 |                                                                                                           
+|           Solved Cases           |   87.45%         |                                                                                                           
+|      Customer Response Rate      |   14.91%         |                                                                                                           
+|            CSAT Score            |   4.33           |                 
+|       Average Resolution time    |  3.42 hours      |          
+|   Average Response time          |  2.16 minutes    |
+|   Reopen Rate                    |  26.23%          |
+|                                  |                  |
+| **2. Quickest Group**            | Support          |
+| **3. Slowest Group**             | Onboardings      |
+| **4. Most aging ticket type**    | Closed Ticket    |
 
-The overall dashboard with the primary numbers that reflect the
-performance of the team can be found below:
+*The overall efficiency of the team is commendable, with a high percentage of cases solved, a satisfactory customer response rate and a high CSAT score. The ability to maintain a relatively low average resolution and response time with a low reopen rate shows the dedication to prompt and effective resolution to customer queries.* 
 
-![](./media/media/image14.jpg){width="7.076813210848644in"
-height="3.9571522309711287in"}
+The overall dashboard with the primary numbers that reflect the performance of the team can be found below:
+![](./media/media/image14.jpg)
